@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "lirantal/awesome-nodejs-security",
+    "stargazers_count": 1738,
+    "open_issues_count": 2,
+    "forks_count": 156
+  },
+  {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 494,
     "open_issues_count": 33,
@@ -32,7 +38,7 @@
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 0
   }
 ]
