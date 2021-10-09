@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2900,
+    "open_issues_count": 27,
+    "forks_count": 336
+  },
+  {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
     "stargazers_count": 87,
     "open_issues_count": 1,
@@ -19,14 +25,14 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82212,
+    "stargazers_count": 82211,
     "open_issues_count": 1541,
     "forks_count": 21479
   },
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 0
   }
 ]
