@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2900,
+    "open_issues_count": 27,
+    "forks_count": 336
+  },
+  {
     "full_name": "angular/angular",
     "stargazers_count": 76951,
     "open_issues_count": 1905,
@@ -38,7 +44,7 @@
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 0
   }
 ]
