@@ -1,15 +1,9 @@
 [
   {
-    "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 2900,
-    "open_issues_count": 27,
-    "forks_count": 336
-  },
-  {
-    "full_name": "angular/angular",
-    "stargazers_count": 76951,
-    "open_issues_count": 1905,
-    "forks_count": 20166
+    "full_name": "ngx-builders/netlify-builder",
+    "stargazers_count": 64,
+    "open_issues_count": 10,
+    "forks_count": 20
   },
   {
     "full_name": "atapas/promise-interview-ready",
@@ -37,14 +31,14 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82211,
+    "stargazers_count": 82212,
     "open_issues_count": 1541,
     "forks_count": 21479
   },
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 0
   }
 ]
