@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "angular/angular",
+    "stargazers_count": 76950,
+    "open_issues_count": 1905,
+    "forks_count": 20169
+  },
+  {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
     "open_issues_count": 32,
@@ -50,7 +56,7 @@
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 0
   }
 ]
