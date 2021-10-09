@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2900,
+    "open_issues_count": 27,
+    "forks_count": 336
+  },
+  {
     "full_name": "atapas/promise-interview-ready",
     "stargazers_count": 52,
     "open_issues_count": 1,
@@ -32,7 +38,7 @@
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 0
   }
 ]
