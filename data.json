@@ -1,27 +1,33 @@
 [
   {
-    "full_name": "ngx-builders/netlify-builder",
-    "stargazers_count": 64,
-    "open_issues_count": 10,
-    "forks_count": 20
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2901,
+    "open_issues_count": 27,
+    "forks_count": 336
   },
   {
-    "full_name": "atapas/promise-interview-ready",
-    "stargazers_count": 52,
-    "open_issues_count": 1,
-    "forks_count": 5
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2901,
+    "open_issues_count": 27,
+    "forks_count": 336
+  },
+  {
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2901,
+    "open_issues_count": 27,
+    "forks_count": 336
+  },
+  {
+    "full_name": "microsoft/Data-Science-For-Beginners",
+    "stargazers_count": 2901,
+    "open_issues_count": 27,
+    "forks_count": 336
   },
   {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
     "stargazers_count": 87,
     "open_issues_count": 1,
     "forks_count": 13
-  },
-  {
-    "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1738,
-    "open_issues_count": 2,
-    "forks_count": 156
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -38,7 +44,7 @@
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 0
   }
 ]
