@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ngx-builders/netlify-builder",
+    "stargazers_count": 64,
+    "open_issues_count": 10,
+    "forks_count": 20
+  },
+  {
     "full_name": "atapas/promise-interview-ready",
     "stargazers_count": 52,
     "open_issues_count": 1,
@@ -7,45 +13,45 @@
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 76950,
-    "open_issues_count": 1905,
-    "forks_count": 20169
+    "stargazers_count": 76954,
+    "open_issues_count": 1906,
+    "forks_count": 20172
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 2910,
+    "stargazers_count": 2924,
     "open_issues_count": 27,
-    "forks_count": 341
+    "forks_count": 343
   },
   {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
@@ -55,14 +61,14 @@
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1738,
+    "stargazers_count": 1739,
     "open_issues_count": 2,
     "forks_count": 156
   },
   {
     "full_name": "git-srinivas/open-sauced-goals",
     "stargazers_count": 0,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 0
   }
 ]

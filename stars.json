@@ -8,14 +8,14 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 144
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 2910,
+    "stargazers_count": 2924,
     "open_issues_count": 27,
-    "forks_count": 341
+    "forks_count": 343
   },
   {
     "full_name": "atapas/promise-interview-ready",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1738,
+    "stargazers_count": 1739,
     "open_issues_count": 2,
     "forks_count": 156
   },
@@ -51,7 +51,7 @@
     "full_name": "markodenic/web-development-resources",
     "stargazers_count": 2568,
     "open_issues_count": 4,
-    "forks_count": 461
+    "forks_count": 462
   },
   {
     "full_name": "xgrommx/rx-book",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 333467,
-    "open_issues_count": 153,
-    "forks_count": 26980
+    "stargazers_count": 333484,
+    "open_issues_count": 154,
+    "forks_count": 26986
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82215,
-    "open_issues_count": 1536,
-    "forks_count": 21479
+    "stargazers_count": 82226,
+    "open_issues_count": 1539,
+    "forks_count": 21483
   },
   {
     "full_name": "basarat/typescript-react",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 15867,
-    "open_issues_count": 142,
+    "stargazers_count": 15869,
+    "open_issues_count": 140,
     "forks_count": 1985
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 6928,
+    "stargazers_count": 6929,
     "open_issues_count": 35,
     "forks_count": 1708
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 76950,
-    "open_issues_count": 1905,
-    "forks_count": 20169
+    "stargazers_count": 76954,
+    "open_issues_count": 1906,
+    "forks_count": 20172
   },
   {
     "full_name": "hwz/chirp",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 15025,
+    "stargazers_count": 15026,
     "open_issues_count": 53,
     "forks_count": 3632
   },
