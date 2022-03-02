@@ -1,31 +1,31 @@
 [
   {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 593,
+    "stargazers_count": 595,
     "open_issues_count": 29,
-    "forks_count": 188
+    "forks_count": 192
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 8284,
-    "open_issues_count": 26,
-    "forks_count": 1345
+    "stargazers_count": 8302,
+    "open_issues_count": 29,
+    "forks_count": 1348
   },
   {
     "full_name": "atapas/promise-interview-ready",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1874,
+    "stargazers_count": 1879,
     "open_issues_count": 0,
     "forks_count": 169
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "GregorBiswanger/rxjs-fruits",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 18,
     "forks_count": 26
   },
   {
     "full_name": "ngneat/tailwind",
-    "stargazers_count": 584,
+    "stargazers_count": 585,
     "open_issues_count": 20,
     "forks_count": 41
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3385,
+    "stargazers_count": 3392,
     "open_issues_count": 38,
-    "forks_count": 611
+    "forks_count": 613
   },
   {
     "full_name": "xgrommx/rx-book",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 341270,
-    "open_issues_count": 150,
-    "forks_count": 28062
+    "stargazers_count": 341427,
+    "open_issues_count": 149,
+    "forks_count": 28084
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 85801,
-    "open_issues_count": 1638,
-    "forks_count": 22869
+    "stargazers_count": 85883,
+    "open_issues_count": 1642,
+    "forks_count": 22897
   },
   {
     "full_name": "basarat/typescript-react",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 16746,
+    "stargazers_count": 16763,
     "open_issues_count": 143,
     "forks_count": 2113
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7089,
-    "open_issues_count": 27,
-    "forks_count": 1762
+    "stargazers_count": 7095,
+    "open_issues_count": 26,
+    "forks_count": 1764
   },
   {
     "full_name": "ngrx/example-app",
     "stargazers_count": 1362,
     "open_issues_count": 24,
-    "forks_count": 514
+    "forks_count": 515
   },
   {
     "full_name": "rangle/angular2-redux-example",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 79794,
-    "open_issues_count": 1712,
-    "forks_count": 20988
+    "stargazers_count": 79869,
+    "open_issues_count": 1648,
+    "forks_count": 21004
   },
   {
     "full_name": "hwz/chirp",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16305,
+    "stargazers_count": 16332,
     "open_issues_count": 19,
-    "forks_count": 1214
+    "forks_count": 1218
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 15638,
+    "stargazers_count": 15652,
     "open_issues_count": 60,
-    "forks_count": 3766
+    "forks_count": 3775
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 12891,
+    "stargazers_count": 12907,
     "open_issues_count": 7,
-    "forks_count": 2332
+    "forks_count": 2334
   },
   {
     "full_name": "mozilla/treeherder",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "makotot/react-scrollspy",
-    "stargazers_count": 416,
+    "stargazers_count": 414,
     "open_issues_count": 84,
     "forks_count": 83
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7113,
+    "stargazers_count": 7117,
     "open_issues_count": 7,
-    "forks_count": 1227
+    "forks_count": 1226
   }
 ]
