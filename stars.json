@@ -1,21 +1,21 @@
 [
   {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 1,
     "forks_count": 16
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 631,
-    "open_issues_count": 27,
-    "forks_count": 206
+    "stargazers_count": 632,
+    "open_issues_count": 19,
+    "forks_count": 208
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 8972,
-    "open_issues_count": 17,
-    "forks_count": 1507
+    "stargazers_count": 9800,
+    "open_issues_count": 16,
+    "forks_count": 1599
   },
   {
     "full_name": "atapas/promise-interview-ready",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1897,
-    "open_issues_count": 0,
+    "stargazers_count": 1899,
+    "open_issues_count": 1,
     "forks_count": 175
   },
   {
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "ngneat/tailwind",
-    "stargazers_count": 590,
+    "stargazers_count": 591,
     "open_issues_count": 21,
     "forks_count": 41
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3543,
+    "stargazers_count": 3547,
     "open_issues_count": 0,
-    "forks_count": 643
+    "forks_count": 642
   },
   {
     "full_name": "xgrommx/rx-book",
-    "stargazers_count": 1660,
+    "stargazers_count": 1661,
     "open_issues_count": 32,
     "forks_count": 202
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 343173,
-    "open_issues_count": 145,
-    "forks_count": 28319
+    "stargazers_count": 343315,
+    "open_issues_count": 153,
+    "forks_count": 28352
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 86548,
-    "open_issues_count": 1667,
-    "forks_count": 23159
+    "stargazers_count": 86633,
+    "open_issues_count": 1689,
+    "forks_count": 23194
   },
   {
     "full_name": "basarat/typescript-react",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 16926,
+    "stargazers_count": 16949,
     "open_issues_count": 145,
-    "forks_count": 2141
+    "forks_count": 2144
   },
   {
     "full_name": "samuxyz/bookstore",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7116,
+    "stargazers_count": 7121,
     "open_issues_count": 34,
-    "forks_count": 1774
+    "forks_count": 1776
   },
   {
     "full_name": "ngrx/example-app",
-    "stargazers_count": 1366,
+    "stargazers_count": 1367,
     "open_issues_count": 24,
     "forks_count": 516
   },
@@ -111,13 +111,13 @@
     "full_name": "ccoenraets/es6-tutorial",
     "stargazers_count": 292,
     "open_issues_count": 14,
-    "forks_count": 267
+    "forks_count": 268
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 80481,
-    "open_issues_count": 1400,
-    "forks_count": 21178
+    "stargazers_count": 80544,
+    "open_issues_count": 1388,
+    "forks_count": 21190
   },
   {
     "full_name": "hwz/chirp",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16466,
-    "open_issues_count": 22,
-    "forks_count": 1245
+    "stargazers_count": 16492,
+    "open_issues_count": 21,
+    "forks_count": 1246
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 15808,
+    "stargazers_count": 15827,
     "open_issues_count": 61,
-    "forks_count": 3788
+    "forks_count": 3789
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 13017,
+    "stargazers_count": 13026,
     "open_issues_count": 6,
     "forks_count": 2348
   },
   {
     "full_name": "mozilla/treeherder",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 26,
     "forks_count": 349
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7197,
+    "stargazers_count": 7199,
     "open_issues_count": 5,
     "forks_count": 1241
   }
