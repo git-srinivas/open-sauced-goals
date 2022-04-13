@@ -7,38 +7,38 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 638,
-    "open_issues_count": 16,
-    "forks_count": 215
+    "stargazers_count": 641,
+    "open_issues_count": 17,
+    "forks_count": 218
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 9977,
+    "stargazers_count": 10184,
     "open_issues_count": 16,
-    "forks_count": 1645
+    "forks_count": 1700
   },
   {
     "full_name": "atapas/promise-interview-ready",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1906,
+    "stargazers_count": 1907,
     "open_issues_count": 1,
     "forks_count": 176
   },
   {
     "full_name": "ngx-builders/netlify-builder",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 16,
     "forks_count": 20
   },
   {
     "full_name": "GregorBiswanger/rxjs-fruits",
     "stargazers_count": 183,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 28
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3558,
+    "stargazers_count": 3564,
     "open_issues_count": 0,
-    "forks_count": 650
+    "forks_count": 652
   },
   {
     "full_name": "xgrommx/rx-book",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 343661,
-    "open_issues_count": 149,
-    "forks_count": 28410
+    "stargazers_count": 343810,
+    "open_issues_count": 148,
+    "forks_count": 28427
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 86718,
-    "open_issues_count": 1623,
-    "forks_count": 23246
+    "stargazers_count": 86779,
+    "open_issues_count": 1621,
+    "forks_count": 23277
   },
   {
     "full_name": "basarat/typescript-react",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 16988,
+    "stargazers_count": 17017,
     "open_issues_count": 145,
-    "forks_count": 2151
+    "forks_count": 2160
   },
   {
     "full_name": "samuxyz/bookstore",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7135,
-    "open_issues_count": 35,
-    "forks_count": 1779
+    "stargazers_count": 7142,
+    "open_issues_count": 37,
+    "forks_count": 1780
   },
   {
     "full_name": "ngrx/example-app",
@@ -111,13 +111,13 @@
     "full_name": "ccoenraets/es6-tutorial",
     "stargazers_count": 292,
     "open_issues_count": 14,
-    "forks_count": 269
+    "forks_count": 270
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 80644,
-    "open_issues_count": 1403,
-    "forks_count": 21245
+    "stargazers_count": 80706,
+    "open_issues_count": 1402,
+    "forks_count": 21281
   },
   {
     "full_name": "hwz/chirp",
@@ -127,27 +127,27 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16512,
-    "open_issues_count": 21,
-    "forks_count": 1254
+    "stargazers_count": 16532,
+    "open_issues_count": 22,
+    "forks_count": 1256
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 15863,
+    "stargazers_count": 15885,
     "open_issues_count": 61,
     "forks_count": 3795
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 13043,
-    "open_issues_count": 6,
-    "forks_count": 2350
+    "stargazers_count": 13057,
+    "open_issues_count": 7,
+    "forks_count": 2349
   },
   {
     "full_name": "mozilla/treeherder",
     "stargazers_count": 230,
-    "open_issues_count": 26,
-    "forks_count": 349
+    "open_issues_count": 27,
+    "forks_count": 350
   },
   {
     "full_name": "git-srinivas/ds-js",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7208,
+    "stargazers_count": 7215,
     "open_issues_count": 5,
-    "forks_count": 1243
+    "forks_count": 1244
   }
 ]
