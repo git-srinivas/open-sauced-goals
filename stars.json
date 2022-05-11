@@ -7,15 +7,15 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 659,
-    "open_issues_count": 20,
-    "forks_count": 249
+    "stargazers_count": 660,
+    "open_issues_count": 17,
+    "forks_count": 251
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 10644,
+    "stargazers_count": 10754,
     "open_issues_count": 22,
-    "forks_count": 1836
+    "forks_count": 1857
   },
   {
     "full_name": "atapas/promise-interview-ready",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "lirantal/awesome-nodejs-security",
-    "stargazers_count": 1928,
+    "stargazers_count": 1931,
     "open_issues_count": 2,
     "forks_count": 179
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "ngneat/tailwind",
-    "stargazers_count": 593,
+    "stargazers_count": 594,
     "open_issues_count": 20,
-    "forks_count": 42
+    "forks_count": 41
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3667,
-    "open_issues_count": 0,
-    "forks_count": 674
+    "stargazers_count": 3685,
+    "open_issues_count": 1,
+    "forks_count": 682
   },
   {
     "full_name": "xgrommx/rx-book",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 345651,
-    "open_issues_count": 138,
-    "forks_count": 28605
+    "stargazers_count": 345830,
+    "open_issues_count": 139,
+    "forks_count": 28622
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 87400,
-    "open_issues_count": 1566,
-    "forks_count": 23407
+    "stargazers_count": 87500,
+    "open_issues_count": 1577,
+    "forks_count": 23415
   },
   {
     "full_name": "basarat/typescript-react",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17149,
+    "stargazers_count": 17179,
     "open_issues_count": 146,
-    "forks_count": 2175
+    "forks_count": 2177
   },
   {
     "full_name": "samuxyz/bookstore",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7169,
-    "open_issues_count": 45,
-    "forks_count": 1784
+    "stargazers_count": 7172,
+    "open_issues_count": 49,
+    "forks_count": 1786
   },
   {
     "full_name": "ngrx/example-app",
-    "stargazers_count": 1365,
+    "stargazers_count": 1366,
     "open_issues_count": 24,
     "forks_count": 514
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "ccoenraets/es6-tutorial",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 14,
     "forks_count": 269
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 81196,
-    "open_issues_count": 1391,
-    "forks_count": 21405
+    "stargazers_count": 81244,
+    "open_issues_count": 1381,
+    "forks_count": 21420
   },
   {
     "full_name": "hwz/chirp",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16671,
+    "stargazers_count": 16685,
     "open_issues_count": 23,
-    "forks_count": 1269
+    "forks_count": 1268
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 16002,
+    "stargazers_count": 16018,
     "open_issues_count": 61,
-    "forks_count": 3804
+    "forks_count": 3802
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 13139,
+    "stargazers_count": 13156,
     "open_issues_count": 7,
     "forks_count": 2362
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7229,
+    "stargazers_count": 7235,
     "open_issues_count": 6,
-    "forks_count": 1247
+    "forks_count": 1248
   }
 ]
