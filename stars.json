@@ -8,18 +8,18 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 660,
-    "open_issues_count": 17,
-    "forks_count": 251
+    "open_issues_count": 19,
+    "forks_count": 253
   },
   {
     "full_name": "microsoft/Data-Science-For-Beginners",
-    "stargazers_count": 10754,
-    "open_issues_count": 22,
-    "forks_count": 1857
+    "stargazers_count": 10812,
+    "open_issues_count": 21,
+    "forks_count": 1867
   },
   {
     "full_name": "atapas/promise-interview-ready",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 18
   },
@@ -33,7 +33,7 @@
     "full_name": "ngx-builders/netlify-builder",
     "stargazers_count": 65,
     "open_issues_count": 15,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "GregorBiswanger/rxjs-fruits",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "markodenic/web-development-resources",
-    "stargazers_count": 3685,
-    "open_issues_count": 1,
-    "forks_count": 682
+    "stargazers_count": 3694,
+    "open_issues_count": 0,
+    "forks_count": 683
   },
   {
     "full_name": "xgrommx/rx-book",
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 345830,
-    "open_issues_count": 139,
-    "forks_count": 28622
+    "stargazers_count": 345938,
+    "open_issues_count": 147,
+    "forks_count": 28630
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 87500,
-    "open_issues_count": 1577,
-    "forks_count": 23415
+    "stargazers_count": 87573,
+    "open_issues_count": 1589,
+    "forks_count": 23436
   },
   {
     "full_name": "basarat/typescript-react",
     "stargazers_count": 180,
     "open_issues_count": 14,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17179,
+    "stargazers_count": 17195,
     "open_issues_count": 146,
-    "forks_count": 2177
+    "forks_count": 2182
   },
   {
     "full_name": "samuxyz/bookstore",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "ngrx/platform",
-    "stargazers_count": 7172,
-    "open_issues_count": 49,
-    "forks_count": 1786
+    "stargazers_count": 7175,
+    "open_issues_count": 47,
+    "forks_count": 1785
   },
   {
     "full_name": "ngrx/example-app",
     "stargazers_count": 1366,
     "open_issues_count": 24,
-    "forks_count": 514
+    "forks_count": 513
   },
   {
     "full_name": "rangle/angular2-redux-example",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 81244,
-    "open_issues_count": 1381,
-    "forks_count": 21420
+    "stargazers_count": 81323,
+    "open_issues_count": 1385,
+    "forks_count": 21451
   },
   {
     "full_name": "hwz/chirp",
@@ -127,26 +127,26 @@
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16685,
+    "stargazers_count": 16700,
     "open_issues_count": 23,
     "forks_count": 1268
   },
   {
     "full_name": "jbhuang0604/awesome-computer-vision",
-    "stargazers_count": 16018,
+    "stargazers_count": 16032,
     "open_issues_count": 61,
-    "forks_count": 3802
+    "forks_count": 3804
   },
   {
     "full_name": "keon/awesome-nlp",
-    "stargazers_count": 13156,
+    "stargazers_count": 13163,
     "open_issues_count": 7,
-    "forks_count": 2362
+    "forks_count": 2363
   },
   {
     "full_name": "mozilla/treeherder",
     "stargazers_count": 232,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 351
   },
   {
@@ -159,13 +159,13 @@
     "full_name": "makotot/react-scrollspy",
     "stargazers_count": 415,
     "open_issues_count": 84,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "shantnu/Intro-to-Pandas",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "shantnu/Titanic-Machine-Learning",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7235,
+    "stargazers_count": 7236,
     "open_issues_count": 6,
     "forks_count": 1248
   }
